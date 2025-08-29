@@ -27,17 +27,6 @@ A **motion-heavy**, **dark neon themed** portfolio starter packed with kinetic i
 
 👉 **[Click here to view on Render](https://your-render-link-here.onrender.com)**
 
-> *Replace the link above with your actual Render / Vercel / Netlify deploy URL.*
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x500/0a0b10/ffffff?text=Preview+Screenshot+Here" alt="Neo Motion Portfolio Preview"/>
-</p>
-
-> You can swap the image above with an actual screenshot or animated GIF of the running project.
 
 ---
 
@@ -48,16 +37,3 @@ A **motion-heavy**, **dark neon themed** portfolio starter packed with kinetic i
 - [Lenis](https://github.com/studio-freight/lenis) — buttery smooth scrolling  
 - Semantic **HTML5 + CSS3** (glassmorphism, gradients, neon accents)  
 - Vanilla **JavaScript** with micro-interaction patterns  
-
----
-
-## 🗂 Project Structure
-
-neo-motion-portfolio/
-├── index.html # markup: hero, work cards, about, contact
-├── styles.css # dark theme, neon accents, glass, animations
-├── app.js # GSAP anims, Three.js, cursor, tilt, upload logic
-└── README.md # documentation (this file)
-
-yaml
-Copy code
